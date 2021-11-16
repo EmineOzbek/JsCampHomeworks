@@ -1,5 +1,5 @@
-#2.Gün Ödev 1
-##İsterler:
+# 2.Gün Ödev 1
+## İsterler:
 1- JavaScript ile istediğiniz kadar sayı parametre gönderebileceğiniz bir fonksiyon yazınız. Bu fonksiyona gönderdiğiniz her sayı için çıktı olarak asal olup olmadığını yazınız. (Araştırma konusu : şart blokları : if )
 
 Örnek kullanım : findPrime(2,5,8,21, 13) findPrime(3,5)
